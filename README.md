@@ -73,10 +73,11 @@ The designed two-stage Miller-compensated op-amp meets the required specificatio
 
 ### Result
 # Final Schematic
-![Screenshot 2024-06-25 160027](https://github.com/Aditya24jar/Two-Stage-Opamp-Design/assets/126892937/3f8a7966-2930-4629-9840-a3d752e26f76)
+![Screenshot 2024-06-25 161227](https://github.com/Aditya24jar/Two-Stage-Opamp-Design/assets/126892937/e78e85fa-d7fe-414b-9960-c47614968c28)
 
 # Calculated (w/l) ratois and current value
-
+![Screenshot 2024-06-25 160027](https://github.com/Aditya24jar/Two-Stage-Opamp-Design/assets/126892937/3f8a7966-2930-4629-9840-a3d752e26f76)
 
 # Final Parameters value
+
 
